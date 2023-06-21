@@ -9,7 +9,7 @@
 
 <h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
-
+<!-- new file -->
 
 ## 🏆 Trophies :
 <br/>
